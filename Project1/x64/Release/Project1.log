@@ -1,0 +1,8 @@
+﻿  main.c
+  Создание кода
+D:\Gronify\Projects\cpp\Project1\Project1\main.c(26): warning C4716: func: должна возвращать значение
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> D:\Gronify\Projects\cpp\Project1\x64\Release\Project1.exe
